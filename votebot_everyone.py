@@ -32,7 +32,7 @@ tip_amount = 0.001
 top_writers = []
 
 # add my favorites
-my_favorites = ["thebatchman"]
+my_favorites = ["niddumulu"]
 
 # Skiplist functionality has not been added yet, this will be your personal blacklist
 with open('skiplist.txt', mode='r') as infile:
